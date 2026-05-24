@@ -1,7 +1,6 @@
 Titanic Dataset Analysis & Prediction
 
 Overview
-
 This project explores the famous Titanic dataset to analyze passenger data and predict survival outcomes. It includes data cleaning, exploratory data analysis (EDA), and machine learning models to understand patterns that influenced survival.
 
 Dataset
