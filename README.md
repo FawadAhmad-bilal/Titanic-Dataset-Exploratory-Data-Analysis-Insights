@@ -42,13 +42,10 @@ Models Used
 * Random Forest (optional)
 
 How to Run
-
 1. Clone the repository
 2. Install required libraries
 3. Run the notebook or Python script
-
  Results
-
 The project demonstrates how machine learning can be applied to real-world datasets to uncover patterns and make predictions.
 
 Future Improvements
