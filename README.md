@@ -57,6 +57,4 @@ Future Improvements
 * Feature engineering
 * Trying advanced models (XGBoost, Neural Networks)
 
----
-
 ⭐ Feel free to fork this repository and contribute!
