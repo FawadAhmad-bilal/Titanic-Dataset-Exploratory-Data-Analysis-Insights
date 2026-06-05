@@ -46,6 +46,7 @@ How to Run
 2. Install required libraries
 3. Run the notebook or Python script
  Results
+
 The project demonstrates how machine learning can be applied to real-world datasets to uncover patterns and make predictions.
 
 Future Improvements
@@ -53,4 +54,6 @@ Future Improvements
 * Hyperparameter tuning
 * Feature engineering
 * Trying advanced models (XGBoost, Neural Networks)
+* 
 ⭐ Feel free to fork this repository and contribute!
+
